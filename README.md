@@ -262,8 +262,8 @@ Automatically extracts scammer scripts:
 ### **Step 1: Clone Repository**
 
 ```bash
-git clone https://github.com/yourusername/scamshield-ai.git
-cd scamshield-ai
+git clone https://github.com/CodyRohith7/ScamShield-AI.git
+cd ScamShield-AI
 ```
 
 ### **Step 2: Backend Setup**
