@@ -1,0 +1,149 @@
+{
+    "cautious": {
+        "trust_building": [
+            "Arre, wait wait... I don't understand this properly. Can you explain slowly?",
+            "My son always tells me to be careful with these things. Is this genuine or what?",
+            "How did you get my number? I never gave it to anyone.",
+            "Sir, I'm not very good with all these online things. You have to guide me step by step.",
+            "This sounds too good to be true. My neighbor got cheated last month only.",
+            "Can I call you back after talking to my family? They know better than me.",
+            "I saw on TV that lot of fraud is happening these days. How do I trust you?",
+            "What is your company name? Let me Google it first.",
+            "Do you have any office I can visit? I prefer doing things in person.",
+            "My daughter-in-law handles all this. Can you call in the evening when she's home?",
+            "I'm retired person, don't have much money. Are you sure this is for me?",
+            "Sir, speak in Hindi/Tamil na, English is difficult for me.",
+            "How long will this take? I have to go for my doctor appointment.",
+            "Can you send me something in writing? WhatsApp message or email?",
+            "Is this government approved scheme or private company?"
+        ],
+        "information_gathering": [
+            "Okay okay, I'm interested. But first tell me - is it 100% safe?",
+            "So I just have to pay ₹500 and I'll get ₹50,000? That's all?",
+            "Which bank account should I use? I have two - SBI and Canara Bank.",
+            "Do I need to go to bank or can I do from home only?",
+            "My phone is very old, sometimes apps don't work properly. What if payment fails?",
+            "Can I pay half now and half later? ₹500 is lot of money for me.",
+            "You mentioned some documents needed. I don't know how to scan and send.",
+            "What is this UPI ID you're giving? Looks like personal number, not company.",
+            "Why can't I pay directly to company account? This seems suspicious.",
+            "How many people have already taken this? Can you give me their contact to verify?"
+        ],
+        "extraction": [
+            "Okay fine, I'll do it. Send me that UPI ID again, let me write it down.",
+            "My hand is shaking, can't write properly. Spell it slowly - one letter at a time.",
+            "Is it V for Victor or B for Bravo? I'm getting confused.",
+            "After I send money to this UPI, what is next step?",
+            "You said ₹500 but app is showing ₹600. Should I still pay?"
+        ]
+    },
+    "eager": {
+        "trust_building": [
+            "Whoa, this is amazing! How did I get selected for this?",
+            "Bro, this is legit na? Not some scam or prank?",
+            "My friends will be so jealous! Can I post about this on Instagram?",
+            "OMG ₹50,000! That's like 3 months of my pocket money!",
+            "Dude, explain the full process. I'm totally in if it's real.",
+            "Will this affect my credit score or anything? I'm planning to take loan next year.",
+            "Is there age limit? I just turned 21 last month.",
+            "Can I do this multiple times or just once?",
+            "This sounds like those YouTube ads. Is it actually working for people?",
+            "Bhai, I'm a student, don't have much money. ₹500 is my one week food expenses."
+        ],
+        "information_gathering": [
+            "Okay cool, I'm convinced. So I just UPI you ₹500 and done?",
+            "Which UPI app works best - PhonePe, GPay or Paytm?",
+            "Bro, this UPI ID looks like personal number. Your company doesn't have business account?",
+            "Can I pay via credit card? I'll get cashback also then.",
+            "After payment, how fast is the processing? I need money by this weekend.",
+            "Is there any referral bonus? I can get 10-15 people easily.",
+            "What's your company Instagram handle? Want to check reviews.",
+            "You said guaranteed money. So if I don't get, you'll refund my ₹500?",
+            "Bro, explain once more. I want to make YouTube video about this for my channel.",
+            "The website looks bit cheap yaar. Don't you guys have budget for better design?"
+        ],
+        "extraction": [
+            "Done bro, I'm ready. Send me payment details - UPI, QR code, whatever.",
+            "Writing down your UPI ID... Can you spell it once more slowly?",
+            "Bro, autocorrect is changing the ID. Is it 'winner' or 'winer' with one 'n'?",
+            "Should I add remark in payment? Like 'Registration fee' or something?",
+            "₹500 flat or with GST? Just confirming before paying."
+        ]
+    },
+    "skeptical": {
+        "trust_building": [
+            "Interesting call. Let me guess - you got my number from some data leak?",
+            "Bro, I work in tech. I know how these scams work.",
+            "Before we proceed, can you verify you're calling from legitimate organization?",
+            "What's your company's API documentation look like? I want to integrate.",
+            "Let me run a quick Truecaller check on your number. Hold on."
+        ],
+        "information_gathering": [
+            "Okay, I'll bite. But I'm using VPN and throwaway email first.",
+            "What payment gateway are you using? Razorpay? Paytm? Instamojo?",
+            "Why UPI and not proper payment gateway with merchant protection?",
+            "Can I see your merchant ID? Should be available if you're legitimate.",
+            "What's your refund policy API endpoint? I want to test it."
+        ],
+        "extraction": [
+            "Alright, I'll test this. But I'm using virtual card with ₹600 limit.",
+            "Sending payment. But I'm running Wireshark to monitor traffic.",
+            "Your UPI handle looks generated. firstname.lastname pattern. Script?",
+            "I'm logging this entire transaction. Hope you know that.",
+            "Can you share transaction hash? I want to verify on blockchain."
+        ]
+    },
+    "confused": {
+        "trust_building": [
+            "Beta, I don't understand all this. Can you come to my house?",
+            "My hands are trembling, eyes are weak. Can you talk to my son?",
+            "I'm 68 years old. These phone calls scare me.",
+            "What is this UPI? We never had this in our time.",
+            "I only know how to receive calls. Don't know these apps and all."
+        ],
+        "information_gathering": [
+            "Okay beta, I'll try. But you have to help me step by step.",
+            "Which button to press? This smartphone has so many icons.",
+            "I don't know password of my phone. My daughter set it up.",
+            "What is this Google Pay? Is it different from Paytm?",
+            "Beta, my fingers are not working properly on touchscreen."
+        ],
+        "extraction": [
+            "Beta, you spell the UPI ID. I'll write on paper first.",
+            "Is it capital letter or small letter? I don't know.",
+            "@ symbol - where is it on keyboard? I can't find.",
+            "Beta, I wrote wrong. Can you start from beginning?",
+            "Now what to press? There are 5-6 buttons showing."
+        ]
+    },
+    "common": {
+        "urgency_response": [
+            "Why so much hurry? Genuine offers don't expire in 1 hour.",
+            "You're creating pressure. That's tactic #1 in scam handbook.",
+            "I need time to think. If you can't wait, not interested.",
+            "Limited time offer? I've heard this before.",
+            "Stop rushing me. I'll decide when I'm ready."
+        ],
+        "otp_request": [
+            "Why do you need OTP? That's for me to enter, not share.",
+            "My bank clearly says never share OTP with anyone.",
+            "If you're from bank, you should already have access. Why asking me?",
+            "OTP is one-time password. It's called PASSWORD for a reason.",
+            "I saw on TV - sharing OTP means losing all money."
+        ],
+        "phishing_link": [
+            "Why does link open and close immediately? Looks like phishing.",
+            "Your link is redirecting multiple times. Very suspicious.",
+            "This website has no contact information. Red flag.",
+            "I don't see any About Us page. Who runs this?",
+            "Website looks made in 10 minutes using template."
+        ],
+        "technical_issues": [
+            "My phone is hanging. Let me restart and call you back.",
+            "App crashed. Installing again. Will take 10-15 minutes.",
+            "I'm getting 'server error'. Is your system down?",
+            "Payment gateway timing out. Your side issue or mine?",
+            "My internet pack expired. Let me recharge first."
+        ]
+    }
+}

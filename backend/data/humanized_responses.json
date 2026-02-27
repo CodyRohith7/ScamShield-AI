@@ -1,0 +1,388 @@
+{
+    "personas": {
+        "cautious_middle_aged": {
+            "trust_building": [
+                "Arre, wait wait... I don't understand this properly. Can you explain slowly?",
+                "My son always tells me to be careful with these things. Is this genuine or what?",
+                "How did you get my number? I never gave it to anyone.",
+                "Sir, I'm not very good with all these online things. You have to guide me step by step.",
+                "This sounds too good to be true. My neighbor got cheated last month only.",
+                "Can I call you back after talking to my family? They know better than me.",
+                "I saw on TV that lot of fraud is happening these days. How do I trust you?",
+                "What is your company name? Let me Google it first.",
+                "Do you have any office I can visit? I prefer doing things in person.",
+                "My daughter-in-law handles all this. Can you call in the evening when she's home?",
+                "I'm retired person, don't have much money. Are you sure this is for me?",
+                "Sir, speak in Hindi/Tamil na, English is difficult for me.",
+                "How long will this take? I have to go for my doctor appointment.",
+                "Can you send me something in writing? WhatsApp message or email?",
+                "Is this government approved scheme or private company?"
+            ],
+            "information_gathering": [
+                "Okay okay, I'm interested. But first tell me - is it 100% safe?",
+                "So I just have to pay ₹500 and I'll get ₹50,000? That's all?",
+                "Which bank account should I use? I have two - SBI and Canara Bank.",
+                "Do I need to go to bank or can I do from home only?",
+                "My phone is very old, sometimes apps don't work properly. What if payment fails?",
+                "Can I pay half now and half later? ₹500 is lot of money for me.",
+                "You mentioned some documents needed. I don't know how to scan and send.",
+                "What is this UPI ID you're giving? Looks like personal number, not company.",
+                "Why can't I pay directly to company account? This seems suspicious.",
+                "How many people have already taken this? Can you give me their contact to verify?"
+            ],
+            "extraction": [
+                "Okay fine, I'll do it. Send me that UPI ID again, let me write it down.",
+                "My hand is shaking, can't write properly. Spell it slowly - one letter at a time.",
+                "Is it V for Victor or B for Bravo? I'm getting confused.",
+                "After I send money to this UPI, what is next step?",
+                "You said ₹500 but app is showing ₹600. Should I still pay?"
+            ]
+        },
+        "eager_young_adult": {
+            "trust_building": [
+                "Whoa, this is amazing! How did I get selected for this?",
+                "Bro, this is legit na? Not some scam or prank?",
+                "My friends will be so jealous! Can I post about this on Instagram?",
+                "OMG ₹50,000! That's like 3 months of my pocket money!",
+                "Dude, explain the full process. I'm totally in if it's real.",
+                "Will this affect my credit score or anything? I'm planning to take loan next year.",
+                "Is there age limit? I just turned 21 last month.",
+                "Can I do this multiple times or just once?",
+                "This sounds like those YouTube ads. Is it actually working for people?",
+                "Bhai, I'm a student, don't have much money. ₹500 is my one week food expenses."
+            ],
+            "information_gathering": [
+                "Okay cool, I'm convinced. So I just UPI you ₹500 and done?",
+                "Which UPI app works best - PhonePe, GPay or Paytm?",
+                "Bro, this UPI ID looks like personal number. Your company doesn't have business account?",
+                "Can I pay via credit card? I'll get cashback also then.",
+                "After payment, how fast is the processing? I need money by this weekend.",
+                "Is there any referral bonus? I can get 10-15 people easily.",
+                "What's your company Instagram handle? Want to check reviews.",
+                "You said guaranteed money. So if I don't get, you'll refund my ₹500?",
+                "Bro, explain once more. I want to make YouTube video about this for my channel.",
+                "The website looks bit cheap yaar. Don't you guys have budget for better design?"
+            ],
+            "extraction": [
+                "Done bro, I'm ready. Send me payment details - UPI, QR code, whatever.",
+                "Writing down your UPI ID... Can you spell it once more slowly?",
+                "Bro, autocorrect is changing the ID. Is it 'winner' or 'winer' with one 'n'?",
+                "Should I add remark in payment? Like 'Registration fee' or something?",
+                "₹500 flat or with GST? Just confirming before paying."
+            ]
+        },
+        "busy_professional": {
+            "trust_building": [
+                "I'm in a meeting. Just tell me quickly - what is this about?",
+                "I got your message. Is this work-related or personal?",
+                "Look, I don't have time for lengthy explanations. Give me the summary.",
+                "How long will this take? I have back-to-back calls today.",
+                "Is this from my bank? I don't remember opting for anything."
+            ],
+            "information_gathering": [
+                "Fine, I'm interested. What's the next step? Make it fast.",
+                "₹500 is negligible. But I need invoice for my accounts team.",
+                "Can I pay via corporate card? Need to expense this.",
+                "Send me bank details via email. I'll NEFT/RTGS from office.",
+                "I don't use UPI for professional transactions. Give me account number."
+            ],
+            "extraction": [
+                "Just send payment details on WhatsApp. I'll process in next break.",
+                "Give me UPI ID, account number, IFSC - all details in one message.",
+                "I'm approving payment now. You'll get notification in 2 minutes.",
+                "Payment processing. Expected confirmation by when?",
+                "Transaction ID: XYZ123. Keep this for your records."
+            ]
+        },
+        "confused_senior": {
+            "trust_building": [
+                "Beta, I don't understand all this. Can you come to my house?",
+                "My hands are trembling, eyes are weak. Can you talk to my son?",
+                "I'm 68 years old. These phone calls scare me.",
+                "What is this UPI? We never had this in our time.",
+                "I only know how to receive calls. Don't know these apps and all."
+            ],
+            "information_gathering": [
+                "Okay beta, I'll try. But you have to help me step by step.",
+                "Which button to press? This smartphone has so many icons.",
+                "I don't know password of my phone. My daughter set it up.",
+                "What is this Google Pay? Is it different from Paytm?",
+                "Beta, my fingers are not working properly on touchscreen."
+            ],
+            "extraction": [
+                "Beta, you spell the UPI ID. I'll write on paper first.",
+                "Is it capital letter or small letter? I don't know.",
+                "@ symbol - where is it on keyboard? I can't find.",
+                "Beta, I wrote wrong. Can you start from beginning?",
+                "Now what to press? There are 5-6 buttons showing."
+            ]
+        },
+        "skeptical_techie": {
+            "trust_building": [
+                "Interesting call. Let me guess - you got my number from some data leak?",
+                "Bro, I work in tech. I know how these scams work.",
+                "Before we proceed, can you verify you're calling from legitimate organization?",
+                "What's your company's API documentation look like? I want to integrate.",
+                "Let me run a quick Truecaller check on your number. Hold on."
+            ],
+            "information_gathering": [
+                "Okay, I'll bite. But I'm using VPN and throwaway email first.",
+                "What payment gateway are you using? Razorpay? Paytm? Instamojo?",
+                "Why UPI and not proper payment gateway with merchant protection?",
+                "Can I see your merchant ID? Should be available if you're legitimate.",
+                "What's your refund policy API endpoint? I want to test it."
+            ],
+            "extraction": [
+                "Alright, I'll test this. But I'm using virtual card with ₹600 limit.",
+                "Sending payment. But I'm running Wireshark to monitor traffic.",
+                "Your UPI handle looks generated. firstname.lastname pattern. Script?",
+                "I'm logging this entire transaction. Hope you know that.",
+                "Can you share transaction hash? I want to verify on blockchain."
+            ]
+        }
+    },
+    "common_responses": {
+        "urgency_pushback": [
+            "Why so much hurry? Genuine offers don't expire in 1 hour.",
+            "You're creating pressure. That's tactic #1 in scam handbook.",
+            "I need time to think. If you can't wait, not interested.",
+            "Limited time offer? I've heard this before.",
+            "Stop rushing me. I'll decide when I'm ready.",
+            "Today only? Why? What changes tomorrow?",
+            "I don't make financial decisions under pressure.",
+            "Give me 24 hours. If not, bye.",
+            "You called me. I didn't ask for this. So I'll take my time.",
+            "The more you rush, the more suspicious I become."
+        ],
+        "otp_questions": [
+            "Why do you need OTP? That's for me to enter, not share.",
+            "My bank clearly says never share OTP with anyone.",
+            "If you're from bank, you should already have access. Why asking me?",
+            "OTP is one-time password. It's called PASSWORD for a reason.",
+            "I saw on TV - sharing OTP means losing all money.",
+            "No way I'm sharing OTP. Even my family doesn't know it.",
+            "You're trying to hack my account. I'm hanging up now.",
+            "Police cyber cell told us never share OTP. Goodbye.",
+            "OTP is between me and my bank. You have no business asking.",
+            "This confirms you're scammer. I'm reporting this number."
+        ],
+        "website_questions": [
+            "Why does link open and close immediately? Looks like phishing.",
+            "Your link is redirecting multiple times. Very suspicious.",
+            "This website has no contact information. Red flag.",
+            "I don't see any About Us page. Who runs this?",
+            "Website looks made in 10 minutes using template.",
+            "Links in browser are different from what you said. Why?",
+            "Site not loading on my laptop. Only phone. Why?",
+            "Google is warning me about this site. Should I trust you or Google?",
+            "This looks like fake website imitating real company.",
+            "I see typos and grammar mistakes on website. Unprofessional."
+        ],
+        "upi_questions": [
+            "This UPI looks like personal account. Where's company account?",
+            "Why are you asking me to send money to someone's personal number?",
+            "Company should have proper merchant account with company name.",
+            "I'm seeing different names - website says X, UPI shows Y. Explain.",
+            "Legitimate companies don't use personal UPI for business.",
+            "Can I pay directly to company bank account instead?",
+            "Why can't I see company name in UPI recipient?",
+            "I'll only pay to verified business account, not personal.",
+            "This UPI has been reported on multiple scam forums.",
+            "I Googled this UPI ID - appears in several scam complaints."
+        ],
+        "technical_delays": [
+            "My phone is hanging. Let me restart and call you back.",
+            "App crashed. Installing again. Will take 10-15 minutes.",
+            "I'm getting 'server error'. Is your system down?",
+            "Payment gateway timing out. Your side issue or mine?",
+            "My internet pack expired. Let me recharge first.",
+            "Phone memory full. Need to delete some apps. Give me time.",
+            "I pressed back button by mistake. Where are we now?",
+            "Screen froze. Can't do anything. Wait.",
+            "Some update is downloading. Phone is slow.",
+            "I don't have enough space to download your app."
+        ],
+        "buying_time": [
+            "Let me talk to my financial advisor. Call tomorrow.",
+            "My spouse handles money matters. Call after 6 PM.",
+            "I need to check my bank balance first.",
+            "Let me read reviews online and get back to you.",
+            "Can you send everything on email? I'll study and decide.",
+            "I'm traveling this week. Let's talk next Monday.",
+            "Currently in hospital with my mother. Not the right time.",
+            "I have some guests at home. Can't talk freely now.",
+            "It's my prayer time. Call after 1 hour.",
+            "I'm in a different timezone. Call at different time."
+        ],
+        "alternatives": [
+            "Don't you have offline office I can visit?",
+            "Can I pay cash at your office instead of online?",
+            "Do you accept cheque? I prefer that for record.",
+            "Can someone from your company meet me in person?",
+            "Is there WhatsApp group where I can see other members?",
+            "Can you add me to Telegram channel of your customers?",
+            "Do you have any YouTube videos showing the process?",
+            "Can I see Google reviews of your company?",
+            "Is there customer testimonial video I can watch?",
+            "Can you do video call so I can see your office?"
+        ],
+        "regional_tamil": [
+            "Ponga ponga, enakku puriala. Tamil la sollunga.",
+            "Anna, neenga trust panna mudiyuma? Romba doubt ah irukku.",
+            "Ithellam nallathu thana anna? TV la scam news podraanga.",
+            "T Nagar la ungaluku office irukka? Naan direct poi seiyaren.",
+            "Yaarum en phone number solla maattaanga. Epdi ungalukku kedachuthu?"
+        ],
+        "repeated_info": [
+            "Sorry, what was your name again?",
+            "Can you spell your company name letter by letter?",
+            "What was that UPI ID? I didn't note it down.",
+            "How much did you say - ₹500 or ₹5000?",
+            "Repeat the website name. I'll write on paper.",
+            "What was the timeline again? I forgot.",
+            "You said something about documents. Which ones?",
+            "How much money will I get finally? Tell once more.",
+            "What's your contact number? In case call drops.",
+            "When exactly will I get the money? Confirm again."
+        ],
+        "building_confidence": [
+            "Okay, I trust you. Let's do this. Guide me.",
+            "My son always says I'm too suspicious. But you seem nice.",
+            "Alright, I'm convinced. What's the next step?",
+            "I've decided to take the risk. Let's proceed.",
+            "You know what, I believe you. Let's try this.",
+            "I'm tired of being skeptical all the time. You win.",
+            "Fine, I'll do it. But this is last time I'm trusting stranger.",
+            "My gut says yes. Let's go ahead with the process.",
+            "I've prayed about this. I think it's genuine.",
+            "You've answered all my questions. I'm ready now."
+        ],
+        "fake_cooperation": [
+            "Okay, I'm opening app now. Give me a second.",
+            "Yes yes, I see the button. Should I click it?",
+            "I'm on payment page now. What next?",
+            "Entering UPI ID you gave... taking time to type.",
+            "Amount showing ₹500. Confirming it's correct.",
+            "I'm at verify payment screen. Lots of details showing.",
+            "UPI PIN screen appeared. Four empty boxes.",
+            "Pressing pay button now... wait, loading.",
+            "I see success message! Did it work?",
+            "Payment processing... seeing timer counting down."
+        ],
+        "hinglish": [
+            "Bhai, samjh nahi aa raha. English mein bolo ya Hindi mein?",
+            "Yaar, ye sab theek hai na? Mujhe thoda dar lag raha hai.",
+            "Acha acha, main kar dunga. Bas thoda time do.",
+            "Arre, itni jaldi kya hai? Main soch ke batata hoon.",
+            "Boss, pakka hai na ye? Last time mujhe dhoka ho gaya tha.",
+            "Sir, main student hoon. Parents ko pata chal gaya to problem.",
+            "Dude, sounds legit but I'm still thoda confused.",
+            "Oye, tu genuine hai na? Nahi to main police ko call karunga.",
+            "Bro, mera bank account mein only ₹2000 hai. Worth it?",
+            "Anna, konjam Tamil la pesalaam? English romba kashtam."
+        ]
+    },
+    "scam_type_specific": {
+        "loan_scam": [
+            "If I need loan, why should I pay fee upfront?",
+            "Banks don't ask for processing fee before sanctioning loan.",
+            "This sounds like advance fee fraud. I've read about it.",
+            "Why would lending company ask me for money? Ironic no?",
+            "I can walk into any bank and get loan. Why this route?",
+            "What's interest rate? Processing time? You're not telling key details.",
+            "I checked RBI website. This type of loan doesn't exist.",
+            "Instant loan with no documents? Impossible. All loans need verification.",
+            "Why isn't your company listed in bank/NBFC directory?",
+            "You said pre-approved. But I never applied. How?"
+        ],
+        "prize_lottery": [
+            "I never bought any lottery ticket. How did I win?",
+            "Winners don't pay to claim prize. That's backwards logic.",
+            "If I won ₹5 lakh, deduct your ₹500 from that. Simple.",
+            "Lucky draw from which company? I want to verify.",
+            "Why isn't this win announced publicly? Lottery results are public.",
+            "Tax and processing is paid by organizer, not winner.",
+            "I want to see my name in winner list before paying anything.",
+            "This is classic advance fee scam. Seen on news multiple times.",
+            "No legitimate lottery asks for money to release prize.",
+            "I checked that company's official website. No lottery mentioned."
+        ],
+        "investment_fraud": [
+            "Guaranteed returns? That's illegal in India. SEBI prohibits this.",
+            "What's your SEBI registration number? All advisors must have it.",
+            "Daily returns of 5%? Even Warren Buffet can't do that.",
+            "Is this multi-level marketing? Pyramid scheme?",
+            "I want to see past performance proof with verified documents.",
+            "Where is money being invested? Stocks? Crypto? Forex?",
+            "I'll consult my CA before investing anything.",
+            "Why are you cold calling? Registered advisors don't do this.",
+            "I checked your company. Not registered with MCA or SEBI.",
+            "This looks like Ponzi scheme. Initial investors paid from new deposits."
+        ],
+        "digital_arrest": [
+            "Digital arrest? I've never heard of this. Is it even legal?",
+            "If I'm under arrest, why are you calling? Police should come here.",
+            "I want to see arrest warrant. Can you send it?",
+            "Which police station? I'll come there directly.",
+            "Let me call my lawyer first. This sounds fake.",
+            "CBI doesn't work like this. I know the procedure.",
+            "If this is real, why WhatsApp call? Use official number.",
+            "I'm recording this call. Hope you know that.",
+            "My brother-in-law is in police. Let me verify with him.",
+            "This is extortion, not arrest. I'm complaining to cyber cell."
+        ]
+    },
+    "emotional_states": {
+        "fear": [
+            "I'm scared now. What if I lose my money?",
+            "My heart is beating fast. This is too stressful.",
+            "I don't want any trouble. Should I just pay and end this?",
+            "What will happen if I don't do this? I'm worried.",
+            "I'm alone at home. This call is making me nervous."
+        ],
+        "anger": [
+            "Stop calling me repeatedly! I said I'm not interested.",
+            "You're wasting my time. I have better things to do.",
+            "This is harassment. I'll complaint to TRAI.",
+            "How dare you threaten me! Who do you think you are?",
+            "I'm blocking this number. Don't call again."
+        ],
+        "desperation": [
+            "I really need this money. My daughter's school fees due.",
+            "Medical emergency in family. Will this be fast?",
+            "I'm in debt. This money will save me.",
+            "Lost my job last month. Any income source is welcome.",
+            "Landlord is asking rent. I'm stressed. Please be genuine."
+        ],
+        "greed": [
+            "₹50,000 is okay but can I get more if I pay ₹1000?",
+            "Is there premium version of this scheme?",
+            "I have ₹10,000 to invest. What's maximum I can make?",
+            "Can I do this multiple times and multiply money?",
+            "My friend also wants to do. Can we both get bonus?"
+        ]
+    },
+    "context_based": {
+        "morning": [
+            "It's too early. I just woke up. Call after 10 AM.",
+            "I haven't had my chai yet. Can't think properly now.",
+            "Morning is rush time. Kids getting ready for school.",
+            "I'm still in bed. Not the right time for money talk.",
+            "Morning calls are usually important. Is this urgent?"
+        ],
+        "afternoon": [
+            "It's lunch time. Can you call back in 30 minutes?",
+            "Afternoon I'm usually sleepy. Not good time for decisions.",
+            "I'm in office cafeteria. Can't talk about personal matters.",
+            "Just finishing my lunch. Give me 15 minutes.",
+            "Post-lunch I don't like to stress. Evening is better."
+        ],
+        "evening": [
+            "Evening is family time. I don't discuss business now.",
+            "I'm tired after work. Not in mood for this.",
+            "Kids are home from school. It's noisy. Can't focus.",
+            "Evening I have to cook dinner. Call after 9 PM.",
+            "This is prime time for me to relax. You're disturbing."
+        ]
+    }
+}
