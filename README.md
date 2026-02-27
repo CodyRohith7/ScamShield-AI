@@ -21,7 +21,6 @@
 - [Usage](#-usage)
 - [Advanced Features](#-advanced-features)
 - [API Documentation](#-api-documentation)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ---
@@ -512,82 +511,9 @@ http://localhost:8000/docs
 
 ---
 
-## 🎨 Screenshots
-
-### **Dashboard**
-![Dashboard](docs/screenshots/dashboard.png)
-
-### **Analytics**
-![Analytics](docs/screenshots/analytics.png)
-
-### **Auto Demo Mode**
-![Auto Demo](docs/screenshots/auto-demo.png)
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-### **Development Setup**
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **India AI Impact Buildathon 2026** for the opportunity
-- **OpenAI** and **Google** for LLM APIs
-- **Research Papers** cited in [ADVANCED_FEATURES_ROADMAP.md](ADVANCED_FEATURES_ROADMAP.md)
-- **Open Source Community** for amazing tools and libraries
-
----
-
-## 📞 Contact
-
-- **Email**: scamshield@example.com
-- **Twitter**: @ScamShieldAI
-- **LinkedIn**: ScamShield AI
-
----
-
-## 🗺️ Roadmap
-
-See [ADVANCED_FEATURES_ROADMAP.md](ADVANCED_FEATURES_ROADMAP.md) for detailed roadmap of 20 advanced features.
-
-### **Q2 2026**
-- ✅ Core honeypot system
-- ✅ Multi-turn conversations
-- ✅ Entity extraction
-- ✅ Analytics dashboard
-- 🔄 Behavioral fingerprinting
-- 🔄 Language mirroring
-- 🔄 Tactic taxonomy
-
-### **Q3 2026**
-- Graph database integration (Neo4j)
-- GNN-based scam ring prediction
-- Adaptive deception engine (RL)
-- Self-evolving persona generator
-- Investigator workbench
-
-### **Q4 2026**
-- Proactive early-warning system
-- Cross-channel correlation
-- Synthetic victim simulator
-- Multi-objective reward system
-- Full deployment at scale
 
 ---
 
@@ -614,6 +540,6 @@ See [ADVANCED_FEATURES_ROADMAP.md](ADVANCED_FEATURES_ROADMAP.md) for detailed ro
 
 **Built with ❤️ for India AI Impact Buildathon 2026**
 
-[Get Started](#-quick-start) • [Documentation](#-api-documentation) • [Roadmap](#-roadmap) • [Contributing](#-contributing)
+[Get Started](#-quick-start) • [API Documentation](#-api-documentation)
 
 </div>
